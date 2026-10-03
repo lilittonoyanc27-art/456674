@@ -1,0 +1,6 @@
+{
+  "name": "Categorías Gramaticales: Español - Հայերեն",
+  "description": "Իսպաներենի քերականական կարգերի ուսուցողական ուղեցույց՝ իսպաներեն բացատրությամբ և հայերեն ինտերակտիվ թարգմանությամբ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
